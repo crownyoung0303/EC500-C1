@@ -1,17 +1,4 @@
-# EC500-C1 Homework 1
+# EC500-C1 by Lingshan Yang
 
-## Project Goals
--Twitter API to access the twitter content
--FFMPEG to convert images to videos
--Google Vision analysis to describe the content
-
-
-
-
-## Accomplishments:
-
-
-
-
-## How to run the program:
+## Homework 1 - Integration of the apis
 
