@@ -26,7 +26,7 @@ pip install wget
 pip install google-cloud-python
 ```
 8. Get your Google Vision API Credentials following steps [here](https://cloud.google.com/vision/docs/auth)
-9. Run the homework1.py
+9. Run the homework1.py <br />
 We will get an output.mp4 which consists of the images downloaded using tweepy.
 Additionally, we can get the labels of the images using the google cloud vision api.
 
