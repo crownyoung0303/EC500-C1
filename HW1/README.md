@@ -22,7 +22,9 @@ pip install wget
 5. Get your credentials and access token from your twitter account by following steps [here](https://www.slickremix.com/docs/how-to-get-api-keys-and-tokens-for-twitter/)
 6. Put your token information into homework1.py
 7. Install google cloud for python
+```
 pip install google-cloud-python
+```
 8. Get your Google Vision API Credentials following steps [here](https://cloud.google.com/vision/docs/auth)
 9. Run the homework1.py
 We will get an output.mp4 which consists of the images downloaded using tweepy.
