@@ -6,7 +6,7 @@
 -Google Vision analysis to describe the content</br  >
 
 ## How to run the program:
-1. Download HW1API.py
+1. Download homework1.py
 2. Install [Tweepy](https://github.com/tweepy/tweepy)
 3. Install FFMpeg
 ```
