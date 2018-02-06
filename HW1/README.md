@@ -17,7 +17,7 @@ Because my program is ran on windows, we should change the environment variables
 pip install wget
 ```
 5. Get your credentials and access token from your twitter account by following steps [here](https://www.slickremix.com/docs/how-to-get-api-keys-and-tokens-for-twitter/)
-6. Put your token information into HW1API.py
+6. Put your token information into homework1.py
 7. Get your Google Vision API Credentials following steps [here](https://cloud.google.com/vision/docs/auth)
 
 
