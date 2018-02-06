@@ -19,13 +19,5 @@ pip install wget
 5. Get your credentials and access token from your twitter account by following steps [here](https://www.slickremix.com/docs/how-to-get-api-keys-and-tokens-for-twitter/)
 6. Put your token information into HW1API.py
 7. Get your Google Vision API Credentials following steps [here](https://cloud.google.com/vision/docs/auth)
-8. Run in your command line 
-```
-python2 HW1API.py
-```
-9. DONE! Check for outputvid.mp4 as the video of the images and labels.json as the decription of your images
-
-Note: This API is developed on macOS10.13.3. If you are using Windows OS, comment line 75 in HW1API.py and uncomment line 74.
-
 
 
