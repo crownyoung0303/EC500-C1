@@ -12,9 +12,7 @@
 pip install tweepy
 ```
 3. Install FFMpeg
-```
 Because my program is ran on windows, we should also change the environment variables.
-```
 4. Install Wget
 ```
 pip install wget
