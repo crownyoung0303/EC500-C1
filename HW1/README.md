@@ -24,7 +24,7 @@ pip install wget
 ```
 pip install google-cloud-python
 ```
-9. Get your Google Vision API Credentials[here](https://cloud.google.com/vision/docs/auth)
+9. Get your Google Vision API Credentials [here](https://cloud.google.com/vision/docs/auth)
 ```
 First, open a gcp project in the console.
 Second, create credentials in the APIs & Services and download it.
