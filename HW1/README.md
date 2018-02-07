@@ -34,5 +34,5 @@ Last, change the json file name to 'service-account-file.json' that are correspo
 We will get an output.mp4 which consists of the images downloaded using tweepy.
 Additionally, we can get the labels of the images using the google cloud vision api.
 
-# Feel free to ask me any questions: yls@bu.edu
+### Feel free to ask me any questions: yls@bu.edu
 
