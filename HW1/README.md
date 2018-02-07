@@ -31,7 +31,7 @@ Second, create credentials in the APIs & Services and download it.
 Last, change the json file name to 'service-account-file.json' that are corresponding to the homework1.py.
 ```
 10. Run the homework1.py <br />
-We will get an [output.mp4](https://github.com/crownyoung0303/EC500-C1/edit/master/HW1/output.mp4) which consists of the images downloaded using tweepy.<br />
+We will get an [output.mp4](https://github.com/crownyoung0303/EC500-C1/blob/master/HW1/output.mp4) which consists of the images downloaded using tweepy.<br />
 Additionally, we can get the labels of the images [labels.json](https://github.com/crownyoung0303/EC500-C1/edit/master/HW1/labels.json) using the google cloud vision api.
 
 ### Feel free to ask me any questions: yls@bu.edu
