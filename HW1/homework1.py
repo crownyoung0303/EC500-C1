@@ -8,13 +8,18 @@ import sys
 import io
 import subprocess
 import glob
+import google.cloud.vision
+import os
 
-#Twitter API credentials
+# Twitter API credentials
+# Input your own credentials
 consumer_key = 
 consumer_secret = 
 access_key = 
 access_secret = 
 
+#
+twitter_account = "@ESPNNBA"
 
 def get_all_tweets(screen_name):
     #authorize twitter, initialize tweepy
@@ -77,6 +82,7 @@ def get_all_tweets(screen_name):
 def ffmpeg():
     try: 
         subprocess.call('ffmpeg -y -framerate 20 -i image%d.JPG -pix_fmt yuv420p -filter:v "setpts=5.0*PTS" output.mp4')
+        print('Transforamtion from images to video done.')
     except (RuntimeError, TypeError,NameError):
         print("Can not create valid video.")
         pass
@@ -117,15 +123,21 @@ def googlelabels(description_count = 2):
 	return outfile
 
 def a():
-
+    import io
+    import os
+    
+    # Imports the Google Cloud client library
+    from google.cloud import vision
+    from google.cloud.vision import types
+    
     # Instantiates a client
-    GOOGLE_APPLICATION_CREDENTIALS = './ec500-hw1-cf9544334042.json'
+    GOOGLE_APPLICATION_CREDENTIALS = 'service-account-file.json'
     client = vision.ImageAnnotatorClient()
     
     # The name of the image file to annotate
     file_name = os.path.join(
         os.path.dirname(__file__),
-        'image2.jpg')
+        './image*.jpg')
     
     # Loads the image into memory
     with io.open(file_name, 'rb') as image_file:
@@ -143,8 +155,8 @@ def a():
 
 if __name__ == '__main__':
     # pass in the username of the account you want to download
-    get_all_tweets("@ESPNNBA")
+    get_all_tweets(twitter_account)
     ffmpeg()
-    #googlelabels()
+    googlelabels()
     #a()
     
