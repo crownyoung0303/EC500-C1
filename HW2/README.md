@@ -1,12 +1,12 @@
-# EC500-C1 Homework 1
+# EC500-C1 Homework 2
 
 ## Project Goals
-- Twitter API to access the twitter content</br  >
-- FFMPEG to convert images to videos</br  >
-- Google Vision analysis to describe the content</br  >
+- Comprehensive Code Review</br  >
+- Develop Test scenarios and scripts</br  >
+- Build a local home page</br  >
 
 ## How to run the program:
-1. Download homework1.py
+1. Download form.py and hw2.py
 2. Install [Tweepy](https://github.com/tweepy/tweepy)
 ```
 pip install tweepy
@@ -30,9 +30,8 @@ First, open a gcp project in the console.
 Second, create credentials in the APIs & Services and download it.
 Last, change the json file name to 'service-account-file.json' that are corresponding to the homework1.py.
 ```
-10. Run the homework1.py <br />
-We will get an [output.mp4](https://github.com/crownyoung0303/EC500-C1/blob/master/HW1/output.mp4) which consists of the images downloaded using tweepy.<br />
-Additionally, we can get the labels of the images [labels.json](https://github.com/crownyoung0303/EC500-C1/edit/master/HW1/labels.json) using the google cloud vision api.
+10. Run the hw2.py and form.py<br />
+We will get a [form.html](https://github.com/crownyoung0303/EC500-C1/blob/master/HW2/Web_Video/results/form.html) and a [hw2_form.html](https://github.com/crownyoung0303/EC500-C1/blob/master/HW2/Web_Video/results/output.mp4/hw2_form.html).<br />
 
 ### Feel free to ask me any questions: yls@bu.edu
 
