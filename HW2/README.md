@@ -1,4 +1,4 @@
-# EC500-C1 Homework 1
+# EC500-C1 Homework 2
 
 ## Project Goals
 - Comprehensive Code Review</br  >
