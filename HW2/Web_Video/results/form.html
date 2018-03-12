@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>Twitter Video Display</title>
+    <link rel="stylesheet" href="../static/style.css">
+  </head>
+  <body>
+    <div id="container">
+      <div class="pagetitle">
+        <h1>Please Input the User Name Below</h1>
+      </div>
+        <form method="post" action="{{ url_for('submitted_form') }}">
+          <label for="name">User name:</label>
+          <input type="text" name="name">
+          <input type="submit">
+        </form>
+    </div>
+  </body>
+</html>
