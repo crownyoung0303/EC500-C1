@@ -81,7 +81,7 @@ def get_all_tweets(screen_name):
 
 def ffmpeg():
     try: 
-        subprocess.call('ffmpeg -y -framerate 20 -i image%d.JPG -pix_fmt yuv420p -filter:v "setpts=5.0*PTS" output.mp4')
+        subprocess.call('ffmpeg -y -framerate 20 -i image%d.JPG -pix_fmt yuv420p -filter:v "setpts=5.0*PTS" output.mp4', shell=True)
         print('Transforamtion from images to video done.')
     except (RuntimeError, TypeError,NameError):
         print("Can not create valid video.")
