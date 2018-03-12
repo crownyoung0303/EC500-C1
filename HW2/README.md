@@ -31,7 +31,7 @@ Second, create credentials in the APIs & Services and download it.
 Last, change the json file name to 'service-account-file.json' that are corresponding to the homework1.py.
 ```
 10. Run the hw2.py and form.py<br />
-We will get a [form.html](https://github.com/crownyoung0303/EC500-C1/blob/master/HW2/results/form.html) and a hw2_form.html(https://github.com/crownyoung0303/EC500-C1/blob/master/HW2/results/output.mp4/hw2_form.html).<br />
+We will get a [form.html](https://github.com/crownyoung0303/EC500-C1/blob/master/HW2/Web_Video/results/form.html) and a [hw2_form.html](https://github.com/crownyoung0303/EC500-C1/blob/master/HW2/Web_Video/results/output.mp4/hw2_form.html).<br />
 
 ### Feel free to ask me any questions: yls@bu.edu
 
