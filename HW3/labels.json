@@ -1,0 +1,170 @@
+{
+    "image1": [
+        {
+            "description": "team sport",
+            "mid": "/m/03x045",
+            "score": "0.8167901635169983",
+            "topicality": "0.8167901635169983"
+        },
+        {
+            "description": "sports",
+            "mid": "/m/06ntj",
+            "score": "0.7808612585067749",
+            "topicality": "0.7808612585067749"
+        }
+    ],
+    "image10": [
+        {
+            "description": "face",
+            "mid": "/m/0dzct",
+            "score": "0.9757533073425293",
+            "topicality": "0.9757533073425293"
+        },
+        {
+            "description": "nose",
+            "mid": "/m/0k0pj",
+            "score": "0.9535755515098572",
+            "topicality": "0.9535755515098572"
+        }
+    ],
+    "image11": [
+        {
+            "description": "sport venue",
+            "mid": "/m/0bmgjqz",
+            "score": "0.9865075945854187",
+            "topicality": "0.9865075945854187"
+        },
+        {
+            "description": "player",
+            "mid": "/m/02vzx9",
+            "score": "0.9795483946800232",
+            "topicality": "0.9795483946800232"
+        }
+    ],
+    "image12": [
+        {
+            "description": "official",
+            "mid": "/m/035y33",
+            "score": "0.5900622606277466",
+            "topicality": "0.5900622606277466"
+        },
+        {
+            "description": "night",
+            "mid": "/m/01d74z",
+            "score": "0.5725765228271484",
+            "topicality": "0.5725765228271484"
+        }
+    ],
+    "image2": [
+        {
+            "description": "cutlery",
+            "mid": "/m/023pjk",
+            "score": "0.9226688742637634",
+            "topicality": "0.9226688742637634"
+        },
+        {
+            "description": "dishware",
+            "mid": "/m/0h8nvk9",
+            "score": "0.8590416312217712",
+            "topicality": "0.8590416312217712"
+        }
+    ],
+    "image3": [
+        {
+            "description": "blue",
+            "mid": "/m/01g5v",
+            "score": "0.9680883288383484",
+            "topicality": "0.9680883288383484"
+        },
+        {
+            "description": "basketball player",
+            "mid": "/m/02h664x",
+            "score": "0.9609339237213135",
+            "topicality": "0.9609339237213135"
+        }
+    ],
+    "image4": [
+        {
+            "description": "blue",
+            "mid": "/m/01g5v",
+            "score": "0.9680967330932617",
+            "topicality": "0.9680967330932617"
+        },
+        {
+            "description": "text",
+            "mid": "/m/07s6nbt",
+            "score": "0.9588590860366821",
+            "topicality": "0.9588590860366821"
+        }
+    ],
+    "image5": [
+        {
+            "description": "mode of transport",
+            "mid": "/m/079bkr",
+            "score": "0.8752562999725342",
+            "topicality": "0.8752562999725342"
+        },
+        {
+            "description": "sky",
+            "mid": "/m/01bqvp",
+            "score": "0.8178746700286865",
+            "topicality": "0.8178746700286865"
+        }
+    ],
+    "image6": [
+        {
+            "description": "text",
+            "mid": "/m/07s6nbt",
+            "score": "0.9616389274597168",
+            "topicality": "0.9616389274597168"
+        },
+        {
+            "description": "font",
+            "mid": "/m/03gq5hm",
+            "score": "0.8442674279212952",
+            "topicality": "0.8442674279212952"
+        }
+    ],
+    "image7": [
+        {
+            "description": "sportswear",
+            "mid": "/m/025xryy",
+            "score": "0.8817280530929565",
+            "topicality": "0.8817280530929565"
+        },
+        {
+            "description": "basketball player",
+            "mid": "/m/02h664x",
+            "score": "0.8732581734657288",
+            "topicality": "0.8732581734657288"
+        }
+    ],
+    "image8": [
+        {
+            "description": "basketball moves",
+            "mid": "/m/06nb_j",
+            "score": "0.9768078923225403",
+            "topicality": "0.9768078923225403"
+        },
+        {
+            "description": "basketball player",
+            "mid": "/m/02h664x",
+            "score": "0.9732598662376404",
+            "topicality": "0.9732598662376404"
+        }
+    ],
+    "image9": [
+        {
+            "description": "basketball player",
+            "mid": "/m/02h664x",
+            "score": "0.9620532989501953",
+            "topicality": "0.9620532989501953"
+        },
+        {
+            "description": "basketball moves",
+            "mid": "/m/06nb_j",
+            "score": "0.8793156743049622",
+            "topicality": "0.8793156743049622"
+        }
+    ]
+}
