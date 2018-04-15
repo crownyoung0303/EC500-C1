@@ -1,0 +1,9 @@
+Report for MySQL and MongoDB
+For both MySQL and MongoDB, the user have to follow some certain format of data to insert to the database, for MySQL, the user
+needs to indicate how many variables their database has and shows what type of data, like integer or text. For MongoDB, the
+data insert must be in dictionary type. For both database, they are able to store a huge amount of data in a really short time.
+They all have API for many different languages which is really convinient for user.
+MySQL allows the user to set password for their database while it's better at keeping users' privacy, while MongoDB doesn't 
+support those kind of things.By using MongoDb, the user will have to open the port first, which allows the user to insert data,
+but with MySQL, sometimes you don't really have to do that. MySQL will generate a db file after inserting all the data, which is
+more visable for user, you will have to download some software like ROBO 3T to see the data in MongoDB.
